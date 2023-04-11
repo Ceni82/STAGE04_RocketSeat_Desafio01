@@ -2,7 +2,7 @@
 
 Stage 04 - Introdução à programação, lógica e algoritmos em Javascript
 
-# FOI ABORDADO NESSE DESAFIO:
+## FOI ABORDADO NESSE DESAFIO:
 - Variáveis;
 - Operações matemáticas;
 - Operadores comparativos;
